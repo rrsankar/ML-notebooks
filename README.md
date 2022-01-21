@@ -1,1 +1,3 @@
-# random-jupyter-notebooks-codes
+# random-ML-notebooks
+
+Random ML notebooks.
